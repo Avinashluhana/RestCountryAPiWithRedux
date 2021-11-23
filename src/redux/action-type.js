@@ -1,0 +1,6 @@
+export const ActionTypes = {
+  ADD_COUNTRY: "ADD_COUNTRY",
+  SINGLE_COUNTRY: "SINGLE_COUNTRY",
+  LOADING: "LOADING",
+  CASES: "CASES",
+};
